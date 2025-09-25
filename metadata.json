@@ -1,0 +1,5 @@
+{
+  "name": "VWAP Precision Algo Platform",
+  "description": "A sophisticated dashboard for an automated VWAP-based trading strategy. It provides live signals, a stock watchlist, trade history, and P&L tracking, designed for intraday traders on the NSE.",
+  "requestFramePermissions": []
+}
